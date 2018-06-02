@@ -1,1 +1,1 @@
-[Mat](/foo)
+[Mat](/food)
