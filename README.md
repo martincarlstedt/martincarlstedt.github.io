@@ -1,7 +1,6 @@
-# Utveckling
+# Github pages
 
-## Git
-Instapushing
+## Deployment
 ```bash
 $ git add . && git commit -m "changes" && git push
 ```
