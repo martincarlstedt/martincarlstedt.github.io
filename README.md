@@ -1,6 +1,3 @@
----
----
-
 # Martin
 
 [Here's stuff](/stuff/index.md)
