@@ -1,7 +1,7 @@
 ---
 title: This is my title
-layout: post
 ---
+
 # Martin
 
 [Here's stuff](/stuff/index.md)
