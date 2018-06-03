@@ -1,9 +1,7 @@
 # Maträtter
-
+[< Tillbaka](/)
 - [Chicken alfredo](#alfredo)
 - [Amerikanska pannkakor](#pancakes)
-
----
 
 ## <a name="alfredo"></a>Chicken alfredo
 ![](../images/alfredo.jpg)
@@ -24,8 +22,6 @@
 1. Låt koka tills pastan är klar
 1. Tillsätt buljongtärningarna, vitlöken, salt och peppar
 1. Riv sönder kyklingen och mixa allt tillsammans med spenaten
-
----
 
 ## <a name="pancakes"></a>Amerikanska pannkakor
 ### Ingredienser

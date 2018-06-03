@@ -1,4 +1,7 @@
 # Martin Carlstedt
-## [Mat](/food)  
-## [Klockor](/watches)  
-## [Cykel](/bikes)
+### Saker jag snöat in på
+- #### [Klockor](/watches)  
+- #### [Cykel](/bikes)
+
+### Bra att ha
+- #### [Mat](/food)  
