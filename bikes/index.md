@@ -1,3 +1,3 @@
 # Cyklar
-[< Tillbaka](/)
+[< Tillbaka](./)
 ## [SCO Cykelbygge](./sco.md)
