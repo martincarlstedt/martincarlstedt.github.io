@@ -1,5 +1,4 @@
 # Maträtter
-[< Tillbaka](./)
 - [Chicken alfredo](#alfredo)
 - [Amerikanska pannkakor](#pancakes)
 

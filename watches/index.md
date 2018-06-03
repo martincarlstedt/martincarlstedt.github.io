@@ -1,5 +1,4 @@
 # Klockor
-[< Tillbaka](./)
 # The holy grail
 - [Rolex Explorer 36mm](https://rolex.com/watches/explorer/m214270-0003.html)
 - [Rolex Datejust](https://rolex.com/watches/datejust/m116234-0080.html)
