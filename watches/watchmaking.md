@@ -30,4 +30,13 @@ Fits hands: 0.835/1.34/0.20
 
 This is the most popular hand sizes used on many of today's Chinese mechanical movements including ladies and gents ST6D, skeleton style 2650S and 2650G and many more.
 
-[Dauphene hands](http://www.startimesupply.com/merchant2/merchant.mvc?Screen=CTGY&Store_Code=1&Category_Code=1H-Parts-Hands-DPH&Product_Code=)
+Dauphene hands:
+- [Start time supply](http://www.startimesupply.com/merchant2/merchant.mvc?Screen=CTGY&Store_Code=1&Category_Code=1H-Parts-Hands-DPH&Product_Code=)
+- [Esslinger](https://www.esslinger.com/search.php?search_query=dauphine&Search=GO)
+
+## Tools
+Crystal press  
+Crystal claw tool  
+Hand fitting tool  
+
+Case holder
