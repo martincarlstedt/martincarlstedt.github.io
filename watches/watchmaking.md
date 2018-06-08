@@ -9,9 +9,11 @@
 ### [Cheapest nato straps](https://www.cheapestnatostraps.com)
 [1]: https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Chestnut_brown_watch_band_white_stitching_Cheapest_nato_straps.jpg  
 
-[Chestnut](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-chestnut?variant=8123633827939) ![](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Chestnut_brown_watch_band_white_stitching_Cheapest_nato_straps.jpg)  
-[Standard black](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-black) ![](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Black_leather_watch_band_cheapest_nato_straps.jpg)  
-[Standard black (white stitching)](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-black-with-white-stitching?variant=8123654373475) ![](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_black_watch_band_with_white_stitching.JPG)
+[Chestnut](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-chestnut?variant=8123633827939) ![](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Chestnut_brown_watch_band_white_stitching_Cheapest_nato_straps.jpg){:width="50%"}
+
+[Standard black](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-black) ![](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Black_leather_watch_band_cheapest_nato_straps.jpg){:width="50%"}
+
+[Standard black (white stitching)](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-black-with-white-stitching?variant=8123654373475) ![](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_black_watch_band_with_white_stitching.JPG){:width="50%"}
 
 ## Movement
 ### Stem
