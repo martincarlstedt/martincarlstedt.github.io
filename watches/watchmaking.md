@@ -41,17 +41,23 @@ Standard:
 This is the most popular hand sizes used on many of today's Chinese mechanical movements including ladies and gents ST6D, skeleton style 2650S and 2650G and many more.
 
 ### Dauphene hands:
-Lengths (mm):  
+Lengths (mm):
+
 Minute | Hour
---- | ---
-4 | 2.5
-5.5 | 3.5
-6 | 4
-6.5 | 4.5
-7 | 5
-8 | 5
-10 | 8
-11 | 8
+--- | --- 
+4 | 2.5 
+5.5 | 3.5 
+6 | 4 
+6.5 | 4.5 
+7 | 5 
+8 | 5 
+10 | 8 
+11 | 8 
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 Stores:  
 [Start time supply](http://www.startimesupply.com/merchant2/merchant.mvc?Screen=CTGY&Store_Code=1&Category_Code=1H-Parts-Hands-DPH&Product_Code=)  
