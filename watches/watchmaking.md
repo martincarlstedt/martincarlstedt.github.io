@@ -9,11 +9,7 @@
 ### [Cheapest nato straps](https://www.cheapestnatostraps.com)
 
 [![Chestnut](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Chestnut_brown_watch_band_white_stitching_Cheapest_nato_straps.jpg){:width="25%"}](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-chestnut?variant=8123633827939)
-
-
 [![Standard black](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Black_leather_watch_band_cheapest_nato_straps.jpg){:width="25%"}](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-black)
-
-
 [![Standard black (white stitching)](https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_black_watch_band_with_white_stitching.JPG){:width="25%"}](https://www.cheapestnatostraps.com/collections/classic-watch-bands/products/classic-black-with-white-stitching?variant=8123654373475)
 
 
