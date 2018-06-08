@@ -11,9 +11,9 @@
 [2]: https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_Black_leather_watch_band_cheapest_nato_straps.jpg
 [3]: https://cdn.shopify.com/s/files/1/0153/3399/products/Classic_black_watch_band_with_white_stitching.JPG
 
-[Chestnut][1]![1]  
-[Standard black][2]![2]  
-[Standard black (white stitching)][3]![3]
+[Chestnut][1] ![1]  
+[Standard black][2] ![2]  
+[Standard black (white stitching)][3] ![3]
 
 ## Movement
 ### Stem
@@ -44,20 +44,15 @@ This is the most popular hand sizes used on many of today's Chinese mechanical m
 Lengths (mm):
 
 Minute | Hour
---- | --- 
-4 | 2.5 
-5.5 | 3.5 
-6 | 4 
-6.5 | 4.5 
-7 | 5 
-8 | 5 
-10 | 8 
-11 | 8 
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+--- | ---
+4 | 2.5
+5.5 | 3.5
+6 | 4
+6.5 | 4.5
+7 | 5
+8 | 5
+10 | 8
+11 | 8
 
 Stores:  
 [Start time supply](http://www.startimesupply.com/merchant2/merchant.mvc?Screen=CTGY&Store_Code=1&Category_Code=1H-Parts-Hands-DPH&Product_Code=)  
