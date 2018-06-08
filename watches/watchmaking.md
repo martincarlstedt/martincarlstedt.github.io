@@ -6,7 +6,6 @@
 ## Crown
 ## Springbars
 ## Strap/Band
-## Internals
 ## Movement
 ### Stem
 ### Linge size
