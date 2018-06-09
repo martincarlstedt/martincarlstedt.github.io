@@ -1,17 +1,19 @@
 # Watchmaking
 ## Parts
+
 Part | Cost
 --- | ---
-Case | $1
-Crystal | $4
-Movement | $5
-Movement holder | 
-Dial | ?
-Hands | $5
-Stem | ?
-Crown | ?
+Case | $1 
+Crystal | $4 
+Movement | $5 
+Movement holder | ? 
+Dial | ? 
+Hands | $5 
+Stem | ? 
+Crown | ? 
 Spring bars | ? 
-Strap | $10-15
+Strap | $10-15 
+
 ## <a name="case"></a>Case
 [Daniel Wellington 36mm case](https://dganpai.en.alibaba.com/product/60776454411-800488907/Chinese_OEM_Watch_Case_Parts_Bronze_Watch_Case.html) $1/piece
 ## <a name="crystal"></a>Crystal
