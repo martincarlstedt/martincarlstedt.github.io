@@ -6,6 +6,7 @@
     "dev": "next dev",
     "prettier": "prettier --write .",
     "analyze": "npx depcheck && prettier --check . && next lint",
+    "test": "npx playwright install && playwright test",
     "build": "next build && next export"
   },
   "dependencies": {
@@ -23,6 +24,7 @@
     "typescript": "4.9.3"
   },
   "devDependencies": {
+    "@playwright/test": "^1.31.2",
     "@tailwindcss/typography": "^0.5.9",
     "@types/markdown-it": "^12.2.3",
     "autoprefixer": "^10.4.13",
