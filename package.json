@@ -3,12 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prettier": "prettier --write .",
-    "lint": "next lint",
-    "analyze": "npx depcheck",
-    "build": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "prettier": "prettier --write .",
+    "analyze": "npx depcheck && prettier --check . && next lint",
+    "build": "next build && next export"
   },
   "dependencies": {
     "@next/font": "^13.0.6",
