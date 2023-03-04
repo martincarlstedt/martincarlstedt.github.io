@@ -1,0 +1,1 @@
+{"pageProps":{"post":{"slug":"hello-mars","content":"\n```kotlin\nfun main() {\n    logger.info(\"Hello world\")\n}\n```\n","title":"Hello Mars","description":"Insert catch phrase here","date":"Mar 4, 2023","draft":false}},"__N_SSG":true}
