@@ -1,2 +1,7 @@
 ignores:
-  - autoprefixer # Used by webpack
+  # Used by webpack
+  - autoprefixer
+
+  # Usage not recognized
+  - markdown-it
+  - '@types/markdown-it'

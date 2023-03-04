@@ -1,13 +1,13 @@
 pre {
-    margin-left: -1rem;
-    margin-right: -1rem;
-    overflow-x: scroll;
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+  margin-left: -1rem;
+  margin-right: -1rem;
+  overflow-x: scroll;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
     Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 @media (max-width: 48rem) {
-    pre {
-        border-radius: 0!important;
-    }
+  pre {
+    border-radius: 0 !important;
+  }
 }

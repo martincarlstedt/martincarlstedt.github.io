@@ -1,13 +1,14 @@
 {
-  "name": "martincarlstedt.gitlab.nextjs",
+  "name": "martincarlstedt.github.io",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "pretty": "yarn prettier --write .",
-    "dev": "next dev",
+    "prettier": "prettier --write .",
+    "lint": "next lint",
+    "analyze": "npx depcheck",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "next dev",
+    "start": "next start"
   },
   "dependencies": {
     "@next/font": "^13.0.6",
@@ -21,14 +22,12 @@
     "next": "^13.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "4.9.3",
-    "zod": "^3.20.2"
+    "typescript": "4.9.3"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "@types/markdown-it": "^12.2.3",
     "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
     "prettier": "2.8.0",
     "tailwindcss": "^3.2.4"
   }

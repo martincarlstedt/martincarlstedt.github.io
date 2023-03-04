@@ -40,7 +40,11 @@ const getAnyPost = (slug: string): AnyPost => {
     content,
     title,
     description,
-    date,
+    date: new Date(date).toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    }),
     draft: !!draft,
   }
 }

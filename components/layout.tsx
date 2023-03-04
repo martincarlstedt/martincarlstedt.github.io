@@ -9,7 +9,7 @@ const Layout = ({ children }: React.PropsWithChildren) => (
 
     {children}
 
-    <div className="py-8"/>
+    <div className="py-8" />
   </>
 )
 export default Layout
