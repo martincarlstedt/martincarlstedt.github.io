@@ -28,7 +28,7 @@ const config: PlaywrightTestConfig = {
     {
       name: 'iPhone',
       use: devices['iPhone 13 Pro'],
-    }
+    },
   ],
 }
 export default config
