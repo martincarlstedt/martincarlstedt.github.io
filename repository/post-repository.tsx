@@ -1,5 +1,6 @@
 import matter from 'gray-matter'
 import fs from 'fs'
+import { getSlugs } from './get-slugs'
 
 const postsPath = 'posts'
 
@@ -13,13 +14,7 @@ export type Post = {
   content: string
 }
 
-const getSlugs = (): string[] =>
-  fs
-    .readdirSync(postsPath, { withFileTypes: true })
-    .filter((dirend) => dirend.isFile())
-    .map((filename) => filename.name.replace('.md', ''))
-
-export const getPostSlugs = (): string[] => getSlugs()
+export const getPostSlugs = (): string[] => getSlugs(postsPath)
 
 export const getPosts = (): Post[] =>
   getPostSlugs()
