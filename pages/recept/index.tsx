@@ -25,9 +25,14 @@ const RecipesPage = ({ recipes }: Props) => {
       </div>
 
       {recipes.map((post) => (
-        <Link key={post.slug} href={`/recept/${post.slug}`} className="mb-2">
-          <h2 className="text-3xl font-bold mb-2">{post.title}</h2>
-        </Link>
+        <div
+          key={post.slug}
+          className="pb-4 pt-4 border-b-2 border-neutral-100 border-opacity-100"
+        >
+          <Link href={`/recept/${post.slug}`}>
+            <h2 className="text-xl font-bold">{post.title}</h2>
+          </Link>
+        </div>
       ))}
     </div>
   )
