@@ -8,16 +8,9 @@
 
 ## Ingredienser
 
-- Sötpotatis
-- Creme fraishe
-- 5 ägg
-- Fetaost
-- Småtomater
-
-### Inköpslista
-
 - 1 Sötpotatis
+- 250g Broccoli
 - 2dl Creme fraishe
-- Ägg
+- 5 ägg
 - 200g Fetaost
-- Småtomater
+- 10-20 Småtomater
